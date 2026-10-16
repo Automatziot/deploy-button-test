@@ -2,5 +2,5 @@
   "name": "az-test-mcp-a",
   "main": "src/index.js",
   "compatibility_date": "2026-09-01",
-  "kv_namespaces": [{ "binding": "OAUTH_KV", "id": "57b35ca8792c4235829558fda1a9adc2" }]
+  "kv_namespaces": [{ "binding": "OAUTH_KV" }]
 }
