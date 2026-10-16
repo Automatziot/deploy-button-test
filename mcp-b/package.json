@@ -1,0 +1,1 @@
+{ "name": "mcp-b", "private": true, "version": "0.0.1", "devDependencies": { "wrangler": "4.151.1" } }
